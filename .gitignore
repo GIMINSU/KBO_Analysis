@@ -1,0 +1,6 @@
+# ignore config files for security
+/config.py
+
+# just ignore .idea
+.idea/
+__pycache__/
