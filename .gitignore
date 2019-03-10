@@ -1,5 +1,6 @@
 # ignore config files for security
 /config.py
+/cnx_information.py
 
 # just ignore .idea
 .idea/
